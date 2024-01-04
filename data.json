@@ -5,7 +5,7 @@
     "brand": "nike",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/nike-7891-5788281-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Nieve Nike Running",
@@ -13,7 +13,7 @@
     "brand": "nike",
     "color": "white",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/nike-2027-5577412-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Adidas Performance",
@@ -21,7 +21,7 @@
     "brand": "adidas",
     "color": "white",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/adidas-performance-3525-9689622-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Adidas Ultra go",
@@ -29,7 +29,7 @@
     "brand": "adidas",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/adidas-performance-3680-6868722-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas New Balance",
@@ -37,7 +37,7 @@
     "brand": "new balance",
     "color": "black",
     "style": "formal",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/new-balance-1496-0480812-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Fila park",
@@ -45,7 +45,7 @@
     "brand": "fila",
     "color": "red",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/fila-4953-1200222-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Fila casual",
@@ -53,7 +53,7 @@
     "brand": "fila",
     "color": "black",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/fila-2081-8847812-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Sketchers for runners",
@@ -61,7 +61,7 @@
     "brand": "Sketchers",
     "color": "white",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/skechers-1915-7588812-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Seven seven shoes",
@@ -69,7 +69,7 @@
     "brand": "seven seven",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/seven-seven-8079-8013022-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas tellenzi shoes 26",
@@ -77,7 +77,7 @@
     "brand": "tellenzi",
     "color": "rosa",
     "style": "militar",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/tellenzi-2724-8383202-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas bont shoes 26",
@@ -85,7 +85,7 @@
     "brand": "war",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/bont-4286-9026891-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas facol shoes 42",
@@ -93,7 +93,7 @@
     "brand": "facol",
     "color": "green",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/facol-8673-0217022-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Reebok Air Max",
@@ -101,7 +101,7 @@
     "brand": "reebok",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/reebok-8115-5250812-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Asics Energy Boost",
@@ -109,7 +109,7 @@
     "brand": "asics",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/asics-3187-5115112-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Croydon Pro Runner",
@@ -117,7 +117,7 @@
     "brand": "croydon",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/croydon-8632-3555622-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Wilson Active",
@@ -125,7 +125,7 @@
     "brand": "wilson",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/wilson-2403-0501122-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Tellenzi Sprinter",
@@ -133,7 +133,7 @@
     "brand": "tellenzi",
     "color": "black",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/tellenzi-0625-1421802-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Nividia Runner",
@@ -141,7 +141,7 @@
     "brand": "nivia",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/nivia-6538-0857622-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Polo Trek",
@@ -149,7 +149,7 @@
     "brand": "polo",
     "color": "white",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/us-polo-assn-5392-6056812-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Tellenzi Tactical",
@@ -157,7 +157,7 @@
     "brand": "tellenzi",
     "color": "white",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/tellenzi-2685-2537422-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Royal Urban Flex",
@@ -165,7 +165,7 @@
     "brand": "royal",
     "color": "white",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/royal-county-of-berkshire-polo-club-1885-1994741-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Bont Urban Glide",
@@ -173,7 +173,7 @@
     "brand": "bont",
     "color": "blue",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/bont-4285-6026891-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Adidas Balance Streetwear",
@@ -181,7 +181,7 @@
     "brand": "adidas",
     "color": "blue",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/adidas-performance-5282-0058022-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Tallenzi Lifestyle",
@@ -189,7 +189,7 @@
     "brand": "tallenzi",
     "color": "blue",
     "style": "casual",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/tellenzi-2817-7147422-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Nike Urban Active",
@@ -197,7 +197,7 @@
     "brand": "nike",
     "color": "red",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/nike-7591-1933012-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas fila Street",
@@ -205,7 +205,7 @@
     "brand": "fila",
     "color": "red",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/fila-4953-1200222-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Skechers Militi Urban",
@@ -213,7 +213,7 @@
     "brand": "skechers",
     "color": "red",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/skechers-5150-7609222-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Adidas War Streetstyle",
@@ -221,7 +221,7 @@
     "brand": "adidas",
     "color": "green",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/adidas-performance-4649-7175722-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Nike FlexFit",
@@ -229,7 +229,7 @@
     "brand": "nike",
     "color": "blue",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/nike-6817-9843122-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Adidas RunSmart",
@@ -237,7 +237,7 @@
     "brand": "adidas",
     "color": "black",
     "style": "deportive",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/adidas-performance-1503-1022981-1-catalog-new.jpg"
   },
   {
     "name": "Zapatillas Balance Active Pro",
@@ -245,6 +245,6 @@
     "brand": "new balance",
     "color": "gray",
     "style": "formal",
-    "image": "urlimage"
+    "image": "https://static.dafiti.com.co/p/new-balance-2303-8117102-1-catalog-new.jpg"
   }
 ]
