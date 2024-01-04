@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "https://suggest-p5z0jtwd2-backsoul.vercel.app"}})
 
 # Cargar datos de productos desde un archivo JSON
 with open('data.json', 'r') as file:
@@ -45,6 +45,10 @@ def get_similar_products(input_producto, num_similar=5, similarity_threshold=0.2
 @app.route('/products', methods=['GET'])
 def get_all_productos():
     return jsonify(productos)
+
+@app.route('/', methods=['GET'])
+def get_all_productos():
+    return "Hello World!"
 
 
 @app.route('/product/<string:nombre>', methods=['GET'])
