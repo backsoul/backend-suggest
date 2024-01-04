@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app)
 
 # Cargar datos de productos desde un archivo JSON
 with open('data.json', 'r') as file:
